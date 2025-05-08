@@ -1,0 +1,2 @@
+# CNN_projects_learning
+使用SimpleCNN、AlexNet、GoogleNet、ViT对CIFAR10数据集分类
